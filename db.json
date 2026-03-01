@@ -1,8 +1,44 @@
 {
   "users": [
     {
-      "name": "tolol1",
-      "id": "fbd5"
+      "id": "9ca4",
+      "name": "jufrin"
+    },
+    {
+      "id": "7dea",
+      "name": "jufrin"
+    },
+    {
+      "id": "6f4c",
+      "name": "dimas"
+    },
+    {
+      "id": "60c0",
+      "name": "rajib"
+    },
+    {
+      "id": "0acc",
+      "name": "david"
+    },
+    {
+      "id": "f311",
+      "name": "septia reza"
+    },
+    {
+      "id": "a776",
+      "name": "tyas"
+    },
+    {
+      "id": "5afb",
+      "name": "indah"
+    },
+    {
+      "id": "e2f9",
+      "name": "nanang"
+    },
+    {
+      "id": "4e6b",
+      "name": "reza"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
